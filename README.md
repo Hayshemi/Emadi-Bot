@@ -46,6 +46,10 @@ Created by **Hayshemi**
 
 [GitHub Profile](https://github.com/hayshemi)
 
+Coloring stolen from **Ebola Man**
+
+[GitHub Profile](https://github.com/EbolaMan-YT)
+
 ---
 
 ## ⭐ Show Your Support
