@@ -25,8 +25,8 @@ This project was made for **learning purposes only**, with a focus on understand
 ## 💻 How to Use
 
 1. Download the repository.
-2. Run the script by double-clicking `EmadiBot.bat`.
-3. Follow the on-screen menu.
+2. Run the script by double-clicking `main.bat`.
+4. Follow the on-screen menu.
 
 You’ll need:
 - An internet connection
