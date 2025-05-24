@@ -54,4 +54,4 @@ Coloring stolen from **Ebola Man**
 
 ## ⭐ Show Your Support
 
-If you found this tool useful for learning, consider giving it a ⭐ on GitHub!
+If you found this tool useful, consider giving it a ⭐!
