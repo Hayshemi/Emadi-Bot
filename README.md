@@ -6,7 +6,7 @@
 
 ---
 
-![Emadi Bot Interface](https://via.placeholder.com/800x300?text=Emadi+Bot+Main+Menu)
+![Emadi Bot Interface](https://github.com/Hayshemi/Emadi-Bot/blob/main/assets/screenshot.png)
 *Emadi Bot v2 — CLI Interface*
 
 ---
@@ -33,22 +33,22 @@ The new **webhook scraper** uses robust regex to scan and collect valid Discord 
 
 ## 📦 Downloads
 
-| Version | Type               | Description                      | EXE Download | Source Code |
-|---------|--------------------|----------------------------------|--------------|-------------|
-| v2.0    | Python-only         | New menu, webhook scraper, modern structure | [EXE](https://github.com/Hayshemi/Emadi-Bot/releases/download/v2.0/EmadiBot_v2.0.exe) | [ZIP](https://github.com/Hayshemi/Emadi-Bot/archive/refs/tags/v2.0.zip) |
-| v1.1    | Hybrid (Batch+Py)   | Added Python utilities, partial automation | [EXE](https://github.com/Hayshemi/Emadi-Bot/releases/download/v1.1/EmadiBot_v1.1.exe) | [ZIP](https://github.com/Hayshemi/Emadi-Bot/archive/refs/tags/v1.1.zip) |
-| v1.0    | Batch-only          | Original release, basic UI       | [EXE](https://github.com/Hayshemi/Emadi-Bot/releases/download/v1.0/EmadiBot_v1.0.exe) | [ZIP](https://github.com/Hayshemi/Emadi-Bot/archive/refs/tags/v1.0.zip) |
+| Version | Type               | Description                      | Download |
+|---------|--------------------|----------------------------------|--------------|
+| v2.0    | Python-only         | New menu, webhook scraper, modern structure | [EXE](https://github.com/Hayshemi/Emadi-Bot/releases/tag/v2.0) |
+| v1.1    | Hybrid (Batch+Py)   | Added Python utilities, partial automation | N/A |
+| v1.0    | Batch-only          | Original release, basic UI       | [BAT](https://github.com/Hayshemi/Emadi-Bot/releases/tag/v1.0) |
+
+**Source code can be found on the releases page**
 
 ---
 
 ## 🖼 Screenshots
 
-screenshots are placeholders i'll add them later
-
-![Webhook Scraper](https://via.placeholder.com/700x200?text=Webhook+Scraper+Output)
+![Webhook Scraper](https://github.com/Hayshemi/Emadi-Bot/blob/main/assets/scraper.png)
 *Scraped webhooks saved to TXT*
 
-![Webhook Spam](https://via.placeholder.com/700x200?text=Spamming+Webhooks)
+![Webhook Spam](https://github.com/Hayshemi/Emadi-Bot/blob/main/assets/spammer.png)
 *Custom spam message sent to multiple webhooks*
 
 ---
